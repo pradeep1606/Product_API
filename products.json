@@ -1,0 +1,25 @@
+[
+    {
+        "name": "iphone",
+        "price": 1150,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "iphone14",
+        "price": 2500,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "watch",
+        "price": 830,
+        "company": "apple"
+    },
+    {
+        "name": "s23 Ultra",
+        "price": 2350,
+        "featured": true,
+        "company": "samsung"
+    }
+]
