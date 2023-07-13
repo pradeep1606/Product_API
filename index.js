@@ -3,8 +3,11 @@ const express = require("express");
 const app = express();
 const products_route = require("./routes/products")
 const connectDB = require("./db");
+const cors = require('cors');
 
 const PORT = process.env.PORT || 5000;
+
+app.use(cors());
 
 app.get("/", (req, res) => {
     res.send("Connected. api path :- /api/products")
