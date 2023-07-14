@@ -1,25 +1,357 @@
 [
     {
-        "name": "iphone",
-        "price": 1150,
+        "name": "OnePlus 10 Pro 5G",
+        "company": "onePlus",
+        "price": 63999,
+        "color": "Volcanic Black",
+        "image": [
+            "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/y/i/g/-original-imaggcee7yprwrhx.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/c/f/6/-original-imaggceeheyj9khj.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/2/d/o/-original-imaggceencdysbk6.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/m/i/d/-original-imaggcee3v5kggsd.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/7/u/n/-original-imaggceeuq8vkbej.jpeg?q=70"
+        ],
+        "description": "12 GB RAM | 256 GB ROM, 17.02 cm (6.7 inch) Display, 48MP Rear Camera, 5000 mAh Battery",
+        "category": "mobile",
+        "rating": 4.2,
+        "reviews": 8,
         "featured": true,
-        "company": "apple"
+        "featured_Name": "OnePlus 10 Pro 5G"
     },
     {
-        "name": "iphone14",
-        "price": 2500,
+        "name": "OnePlus 9 Pro 5G",
+        "company": "onePlus",
+        "price": 54999,
+        "color": "Morning Mist",
+        "image": [
+            "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/c/5/t/-original-imaggceeagthynsm.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/p/o/v/-original-imaggceehjk8wbzr.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/p/l/u/-original-imaggceefdqp3wa8.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/r/h/q/-original-imaggceerqrnxfgr.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/y/y/w/-original-imaggceedfuzrbwp.jpeg?q=70"
+        ],
+        "description": "8 GB RAM | 128 GB ROM, 17.02 cm (6.7 inch) Display, 48MP Rear Camera, 4500 mAh Battery",
+        "category": "mobile",
+        "rating": 4.3,
+        "reviews": 19,
         "featured": true,
-        "company": "apple"
+        "featured_Name": "OnePlus 9 Pro 5G"
     },
     {
-        "name": "watch",
-        "price": 830,
-        "company": "apple"
+        "name": "Realme GT 2 Pro",
+        "company": "realme",
+        "price": 57999,
+        "color": "Paper Green",
+        "image": [
+            "https://rukminim1.flixcart.com/image/416/416/l3rmzrk0/mobile/5/o/q/-original-imagetmenznfey7h.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/l1mh7rk0/mobile/e/8/u/-original-imagd5gk7hhfnhpk.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/l1mh7rk0/mobile/e/8/u/-original-imagd5gk7hhfnhpk.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/l1mh7rk0/mobile/x/s/t/-original-imagd5gkjgamyjzw.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/l1mh7rk0/mobile/x/s/t/-original-imagd5gkjgamyjzw.jpeg?q=70"
+        ],
+        "description": "12 GB RAM | 256 GB ROM, 17.02 cm (6.7 inch) Quad HD Display, 50MP + 50MP + 2MP | 32MP Front Camera, 5000 mAh Lithium Ion Battery, Qualcomm Snapdragon 8 Gen 1 Mobile Platform Processor",
+        "category": "mobile",
+        "rating": 4.3,
+        "reviews": 422,
+        "featured": true,
+        "featured_Name": "Realme GT 2 Pro"
     },
     {
-        "name": "s23 Ultra",
-        "price": 2350,
+        "name": "Realme GT NEO 3 (150W)",
+        "company": "realme",
+        "price": 42999,
+        "color": "Nitro Blue",
+        "image": [
+            "https://rukminim1.flixcart.com/image/416/416/l3rmzrk0/mobile/a/f/2/-original-imagetmecznbydne.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/r/m/7/-original-imaggbutegwrmwg9.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/g/1/q/-original-imaggbutarf7jkpg.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/v/o/d/-original-imaggbutarqnfwff.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/q/c/l/-original-imaggbutkpuwhhgm.jpeg?q=70"
+        ],
+        "description": "12 GB RAM | 256 GB ROM, 17.02 cm (6.7 inch) Full HD+ Display, 50MP + 8MP + 2MP | 16MP Front Camera,4500 mAh Lithium Ion Battery, Mediatek Dimensity 8100 Processor",
+        "category": "mobile",
+        "rating": 4.3,
+        "reviews": 3
+    },
+    {
+        "name": "OPPO Find N2 Flip",
+        "company": "oppo",
+        "price": 89999,
+        "color": "Moonlit Purple",
+        "image": [
+            "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/i/m/7/-original-imagndwgszztcbsb.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/u/z/m/-original-imagndwg7zjhz3tr.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/t/p/v/-original-imagndwgger8ztkw.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/o/r/a/-original-imagndwgzrmehhah.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/7/b/3/-original-imagndwggpgxhndm.jpeg?q=70"
+        ],
+        "description": "8 GB RAM | 256 GB ROM, 17.27 cm (6.8 inch) Full HD+ Display, 50MP + 8MP | 32MP Front Camera, 4300 mAh Battery, Mediatek Dimensity 9000+ Processor",
+        "category": "mobile",
+        "rating": 5.0,
+        "reviews": 100,
         "featured": true,
-        "company": "samsung"
+        "featured_Name": "OPPO Find N2 Flip"
+    },
+    {
+        "name": "OPPO Reno7 Pro 5G",
+        "company": "oppo",
+        "price": 34999,
+        "color": "Starlight Black",
+        "image": [
+            "https://rukminim1.flixcart.com/image/416/416/kzhbfrk0/mobile/0/r/j/-original-imagbgxffuvx56mm.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/kzhbfrk0/mobile/q/d/3/-original-imagbgxfs3j6fcct.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/kzhbfrk0/mobile/q/d/3/-original-imagbgxfs3j6fcct.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/kzhbfrk0/mobile/w/9/t/-original-imagbgxfuhz7evnr.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/kz5vwy80/mobile/b/t/o/-original-imagb8g5drhxtxr9.jpeg?q=70"
+        ],
+        "description": "12 GB RAM | 256 GB ROM, 16.51 cm (6.5 inch) Full HD+ AMOLED Display, 50MP + 8MP + 2MP | 32MP Front Camera, 4500 mAh Lithium-ion Polymer Battery, MediaTek Dimensity 1200-Max Processor, 65W SuperVOOC | OPPO Sony IMX766 Flagship Rear Camera Sensor, Aircraft-Grade Shooting Star Design | OPPO Glow",
+        "category": "mobile",
+        "rating": 4.3,
+        "reviews": 1092
+    },
+    {
+        "name": "SAMSUNG Galaxy S23 Ultra 5G",
+        "company": "samsung",
+        "price": 124999,
+        "color": "Green",
+        "image": [
+            "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/2/s/7/-original-imagmg6gktts6sfy.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/g/m/t/-original-imagmg6gyhzhh3fb.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/p/4/u/-original-imagmg6gynphgrh8.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/n/w/t/-original-imagmg6gwun9dmxu.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/r/m/b/-original-imagmg6gxps2jkqc.jpeg?q=70"
+        ],
+        "description": "12 GB RAM | 256 GB ROM, 17.27 cm (6.8 inch) Quad HD+ Display, 200MP + 10MP + 12MP + 10MP | 12MP Front Camera, 5000 mAh Lithium Ion Battery, Qualcomm Snapdragon 8 Gen 2 Processor",
+        "category": "mobile",
+        "rating": 4.0,
+        "reviews": 37,
+        "featured": true,
+        "featured_Name": "SAMSUNG S23 Ultra 5G"
+    },
+    {
+        "name": "SAMSUNG Galaxy S23 Ultra 5G",
+        "company": "samsung",
+        "price": 124999,
+        "color": "black",
+        "image": [
+            "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/m/l/o/-original-imagmg6gzjf7gggt.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/2/a/j/-original-imagmg6gcxzaggfy.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/q/y/u/-original-imagmg6ggzazdevx.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/f/1/k/-original-imagmg6gzej4y4hf.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/5/9/a/-original-imagmg6gvnxechaf.jpeg?q=70"
+        ],
+        "description": "12 GB RAM | 256 GB ROM, 17.27 cm (6.8 inch) Quad HD+ Display, 200MP + 10MP + 12MP + 10MP | 12MP Front Camera, 5000 mAh Lithium Ion Battery, Qualcomm Snapdragon 8 Gen 2 Processor",
+        "category": "mobile",
+        "rating": 4.0,
+        "reviews": 37
+    },
+    {
+        "name": "SAMSUNG Galaxy S23 Ultra 5G",
+        "company": "samsung",
+        "price": 124999,
+        "color": "Cream",
+        "image": [
+            "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/k/1/o/-original-imagmg6gz3bsgan7.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/7/g/r/-original-imagmg6gnsgffd4v.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/q/y/u/-original-imagmg6ggzazdevx.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/p/s/m/-original-imagmg6gz5vzdjjg.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/xif0q/mobile/r/m/b/-original-imagmg6gxps2jkqc.jpeg?q=70   "
+        ],
+        "description": "12 GB RAM | 256 GB ROM, 17.27 cm (6.8 inch) Quad HD+ Display, 200MP + 10MP + 12MP + 10MP | 12MP Front Camera, 5000 mAh Lithium Ion Battery, Qualcomm Snapdragon 8 Gen 2 Processor",
+        "category": "mobile",
+        "rating": 4.0,
+        "reviews": 37
+    },
+    {
+        "name": "SAMSUNG 27 inch Curved Full HD LED Backlit VA Panel Gaming Monitor",
+        "company": "samsung",
+        "price": 43399,
+        "color": "black",
+        "image": "https://rukminim1.flixcart.com/image/416/416/kkec4280/monitor/u/g/c/lc27g75tqswxxl-lc27g75tqswxxl-samsung-original-imafzqvfcahbarfg.jpeg?q=70",
+        "description": "Panel Type: VA Panel, Screen Resolution Type: Full HD, Brightness: 600 Units, Response Time: 1 ms | Refresh Rate: 240 Hz, HDMI Ports - 1",
+        "category": "moniter",
+        "rating": 4.0,
+        "reviews": 100,
+        "featured": true,
+        "featured_Name": "SAMSUNG 27''Gaming Monitor"
+    },
+    {
+        "name": "Acer Nitro 27 inch Full HD LED Backlit VA Panel Monitor (QG271)",
+        "company": "acer",
+        "price": 10999,
+        "color": "black",
+        "image": [
+            "https://rukminim1.flixcart.com/image/416/416/kk76wsw0/monitor/u/p/k/qg271-um-hq1ss-001-acer-original-imafzhrxqegfbhad.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/kk76wsw0/monitor/5/j/4/qg271-um-hq1ss-001-acer-original-imafzhrxk89zkxgz.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/kk76wsw0/monitor/1/m/b/qg271-um-hq1ss-001-acer-original-imafzhrxfzhwnfcu.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/kk76wsw0/monitor/c/a/1/qg271-um-hq1ss-001-acer-original-imafzhrxw4ju9etz.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/kk76wsw0/monitor/d/q/5/qg271-um-hq1ss-001-acer-original-imafzhrx74nubngs.jpeg?q=70"
+        ],
+        "description": "Panel Type: VA Panel, Screen Resolution Type: Full HD, Brightness: 300 Nits, Response Time: 1 ms | Refresh Rate: 75 Hz, HDMI Ports - 2",
+        "category": "moniter",
+        "rating": 4.3,
+        "reviews": 75,
+        "featured": true,
+        "featured_Name": "Acer Nitro 27'' Monitor"
+    },
+    {
+        "name": "Lenovo V15 G2 Core i5 11th Gen - (8 GB/512 GB SSD/Windows 11 Home)",
+        "company": "lenovo",
+        "price": 53500,
+        "color": "Silver",
+        "image": [
+            "https://rukminim1.flixcart.com/image/416/416/xif0q/computer/d/t/c/v15-g2-alc-laptop-lenovo-original-imaghq2ffspmtfuh.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/kuvkcy80/computer/b/6/g/v15-thin-and-light-laptop-lenovo-original-imag7wnrgnncgzwh.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/kuvkcy80/computer/n/v/j/v15-thin-and-light-laptop-lenovo-original-imag7wnrgdgdvh3g.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/kuvkcy80/computer/h/r/x/v15-thin-and-light-laptop-lenovo-original-imag7wnrhrd8xchw.jpeg?q=70"
+        ],
+        "description": "Light Laptop without Optical Disk Drive, 15.6 Inch Full HD, Anti-glare Display",
+        "category": "laptop",
+        "rating": 5.0,
+        "reviews": 100,
+        "featured": true,
+        "featured_Name": "Lenovo Core i5 Laptop"
+    },
+    {
+        "name": "DELL Core i5 11th Gen - (16 GB/512 GB SSD/Windows 11 Home)",
+        "company": "dell",
+        "price": 115790,
+        "color": "Platinum Silver",
+        "image": [
+            "https://rukminim1.flixcart.com/image/416/416/l44hyfk0/computer/k/k/o/-original-imagf35eygyxjv4h.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/l44hyfk0/computer/o/2/j/-original-imagf35ec3dgjzfy.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/l44hyfk0/computer/g/t/f/-original-imagf35ezkhjt3hu.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/l44hyfk0/computer/1/7/z/-original-imagf35ecq2yt5gg.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/l44hyfk0/computer/c/b/m/-original-imagf35eqpfewhf4.jpeg?q=70"
+        ],
+        "description": "Stylish & Portable Thin and Light Laptop, 13.4 inch Full HD WVA Infinity Edge, Finger Print Sensor for Faster System Access, Light Laptop without Optical Disk Drive",
+        "category": "laptop",
+        "rating": 5.0,
+        "reviews": 100,
+        "featured": true,
+        "featured_Name": "Dell Core i5 Laptop"
+    },
+    {
+        "name": "HP Ryzen 7 Octa Core 6800H",
+        "company": "hp",
+        "price": 136000,
+        "color": "Silver",
+        "image": [
+            "https://rukminim1.flixcart.com/image/416/416/xif0q/computer/c/s/a/16-n0049ax-gaming-laptop-hp-original-imaghwptyggvfjjd.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/xif0q/computer/h/x/r/16-n0049ax-gaming-laptop-hp-original-imaghwptcqznn6qh.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/xif0q/computer/n/t/a/16-n0054ax-gaming-laptop-hp-original-imaghwpxgjupqsnu.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/xif0q/computer/f/g/d/16-n0050ax-gaming-laptop-hp-original-imaghwpwvuugpduz.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/xif0q/computer/a/q/o/16-n0054ax-gaming-laptop-hp-original-imaghwpxuxvxkk4h.jpeg?q=70"
+        ],
+        "description": "16.1 Inch Full HD, 144 Hz, 7 ms response time, IPS, micro-edge, anti-glare, Brightness: 300 nits, 137 ppi, Color Gamut: 100% sRGB, Light Laptop without Optical Disk Drive, Preloaded with MS Office",
+        "category": "laptop",
+        "rating": 5.0,
+        "reviews": 100,
+        "featured": true,
+        "featured_Name": "HP Ryzen 7 Laptop"
+    },
+    {
+        "name": "HP Smart Tank 515 Multi-function WiFi Color Inkjet Printer",
+        "company": "hp",
+        "price": 14999,
+        "color": "black",
+        "image": [
+            "https://rukminim1.flixcart.com/image/416/416/keokpe80/printer/f/f/6/hp-smart-tank-515-aio-original-imafvb84s4xtryzw.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/xif0q/printer/j/r/u/-original-imagzyb5xrtghefh.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/xif0q/printer/p/q/q/-original-imagzyb5j4jwxzwe.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/xif0q/printer/z/h/t/-original-imagzyb5mc5sgyjf.jpeg?q=70"
+        ],
+        "description": "Output: Color, WiFi, WiFi Direct | USB, Cost per Page (black): 10 Paise | Cost per Page (Color): 20 Paise",
+        "category": "printer",
+        "rating": 4.2,
+        "reviews": 280,
+        "featured": true,
+        "featured_Name": "HP Inkjet Printer"
+    },
+    {
+        "name": "Epson L3210 Multi-function Color Inkjet Printer",
+        "company": "epson",
+        "price": 12899,
+        "color": "black",
+        "image": [
+            "https://rukminim1.flixcart.com/image/416/416/kwl0akw0/printer/k/d/6/-original-imag989fnfr39zrg.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/kwl0akw0/printer/m/n/n/-original-imag989fzjs35wfb.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/kwl0akw0/printer/y/7/p/-original-imag989fyjyn4c5z.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/kwl0akw0/printer/w/7/k/-original-imag989fmzsebydw.jpeg?q=70"
+        ],
+        "description": "Ink Tank, utput: Color, USB | USB",
+        "category": "printer",
+        "rating": 4.3,
+        "reviews": 659,
+        "featured": true,
+        "featured_Name": "Epson L3210 Inkjet Printer"
+    },
+    {
+        "name": "HP DeskJet 2723 Multi-function WiFi Color Inkjet Printer",
+        "company": "hp",
+        "price": 5999,
+        "color": "White",
+        "image": [
+            "https://rukminim1.flixcart.com/image/416/416/xif0q/printer/r/6/t/-original-imagnuwezn8c5nmg.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/xif0q/printer/m/k/v/-original-imagnuweg7ebmk2n.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/xif0q/printer/c/d/o/-original-imagnuwemevnjbe6.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/xif0q/printer/o/p/5/-original-imagnuweyzxbchn4.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/kelptow0/printer/g/t/n/hp-deskjet-2723-original-imafv8zurdzz9fzp.jpeg?q=70"
+        ],
+        "description": "Output: Color, WiFi, WiFi Direct | USB, Print Speed Mono A4: 7.5 ipm | Print Speed Color A4: 5.5 ipm",
+        "category": "printer",
+        "rating": 4.7,
+        "reviews": 572,
+        "featured": true,
+        "featured_Name": "HP DeskJet 2723 Printer"
+    },
+    {
+        "name": "SONY Alpha ILCE-6400L APS-C Mirrorless Camera",
+        "company": "sony",
+        "price": 66990,
+        "color": "Black",
+        "image": [
+            "https://rukminim1.flixcart.com/image/416/416/kw9krrk0/dslr-camera/1/h/j/-original-imag8z5weagzztda.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/k3q76a80/camera/a/9/y/sony-apsc-ilce-6100l-b-in5-mirrorless-original-imafmsk5whjgfsjm.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/k3q76a80/camera/a/9/y/sony-apsc-ilce-6100l-b-in5-mirrorless-original-imafmsk5khhdfmeb.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/k3q76a80/camera/a/9/y/sony-apsc-ilce-6100l-b-in5-mirrorless-original-imafmsk5dh5fxkbs.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/k3q76a80/camera/a/9/y/sony-apsc-ilce-6100l-b-in5-mirrorless-original-imafmsk5s9gx9hzk.jpeg?q=70"
+        ],
+        "description": "4K movies and pro-level features, Natural-looking images that match what you see, Cleaner images even in dim light, Creative movie production, High-resolution 4K recording, Create time-lapse movies, Vlog with useful features, Take advantage of various movie functions, A high resolution LCD monitor with handy touchscreen functions, Incredible image quality, Sophisticated eye recognition and tracking, Persistent tracking ability, High speed continuous shooting with AF/AE tracking, Bluetooth & NFC, Touch Screen, Effective Pixels: 24.2 MP, Sensor Type: CMOS, WiFi Available, NTSC/PAL",
+        "category": "camera",
+        "rating": 4.6,
+        "reviews": 49,
+        "featured": true,
+        "featured_Name": "SONY Alpha Mirrorless Camera"
+    },
+    {
+        "name": "SONY Alpha ILCE-7C Full Frame Mirrorless Camera Body Featuring Eye AF and 4K movie recording",
+        "company": "sony",
+        "price": 147790,
+        "color": "Silver",
+        "image": [
+            "https://rukminim1.flixcart.com/image/416/416/kw9krrk0/dslr-camera/j/t/a/-original-imag8z5wgugzgu5a.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/kw9krrk0/dslr-camera/n/a/b/-original-imag8z5wcduwu3pw.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/kw9krrk0/dslr-camera/2/2/5/-original-imag8z5whmbhh5hn.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/kw9krrk0/dslr-camera/4/t/9/-original-imag8z5wrqzacksx.jpeg?q=70",
+            "https://rukminim1.flixcart.com/image/416/416/kw9krrk0/dslr-camera/a/d/0/-original-imag8z5wfyw5z7zp.jpeg?q=70"
+        ],
+        "description": "4K recording34 for beautiful movie imagery (Full-pixel readout without pixel binning allows oversampling equivalent to 6K recording, for clean images with less moir?and jaggies.), Movie-making with room for creativity, Designed for optimal usability, Unique full-frame imagery, Enjoy the full-frame advantage, Expand your movie-making options (Achieve truly artistic movie-making with the superb control, image quality and dimensionality of full-frame), Stunning images, even at fast shutter speeds and in dim light, Wi-Fi,NFC & Bluetooth, Effective Pixels: 24.2 MP, Sensor Type: CMOS, WiFi Available, 4K",
+        "category": "camera",
+        "rating": 4.6,
+        "reviews": 10,
+        "featured": true,
+        "featured_Name": "SONY Alpha Mirrorless Camera"
+    },
+    {
+        "name": " productname",
+        "company": "company name",
+        "price": 100,
+        "color": "color",
+        "image": "image link",
+        "description": "desc or highlights",
+        "category": "category",
+        "rating": 5.0,
+        "reviews": 100
     }
 ]
