@@ -1,12 +1,14 @@
 const Product = require("../models/product");
 
 const getAllProducts = async (req, res) => {
-    const { company, name, featured, sort, select } = req.query;
+    const { id, company,category, name, featured, sort, select } = req.query;
     const queryObject = {};
-    if (company) { queryObject.company = company }
+    if (id) { queryObject._id = id }  
+    if (company) { queryObject.company = company }  
+    if (category) { queryObject.category = category }
     if (featured) { queryObject.featured = featured }
     if (name) { queryObject.name = { $regex: name, $options: "p" } }
-    
+
     let apiData = Product.find(queryObject);
     
     if (sort) {
@@ -27,7 +29,7 @@ const getAllProducts = async (req, res) => {
     apiData = apiData.skip(skip).limit(limit);
     
     const Products = await apiData;
-    console.log(Products);
+    // console.log(Products);
     res.status(200).json({ Products, nbHits: Products.length });
 };
 
