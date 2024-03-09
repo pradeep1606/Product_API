@@ -5,7 +5,7 @@ const products_route = require("./routes/products")
 const connectDB = require("./db");
 const cors = require('cors');
 
-const PORT = process.env.PORT || 5000;
+const PORT = process.env.PORT;
 
 // app.use(cors());
 const allowedOrigins = ['https://online-store-ecom.netlify.app', 'https://online-store-ecom.netlify.app']; // Add your allowed domains here
